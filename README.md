@@ -15,9 +15,9 @@ Comparison of these reference inputs with the feedback values is made and given 
 fuzzy controller as horizontal position error and angle error. Output of the controller is given
 as inputs to the plant and states are observed to be used as feedbacks.
 
-Block Diagram of the Closed Loop Controller In Simulink: 
+Block Diagram of the Closed Loop Controller in Simulink: 
 
-![Block Diagram of the Closed Loop Controller In Simulink](./img/fuzzy_bd.png)
+![Block Diagram of the Closed Loop Controller in Simulink](./img/fuzzy_bd.png)
 
 To showcase the algorithm, extreme values of distance and angle according to the constraints
 are chosen and results are plotted:
