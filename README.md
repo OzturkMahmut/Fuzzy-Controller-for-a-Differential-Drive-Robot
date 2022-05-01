@@ -15,4 +15,5 @@ Comparison of these reference inputs with the feedback values is made and given 
 fuzzy controller as horizontal position error and angle error. Output of the controller is given
 as inputs to the plant and states are observed to be used as feedbacks.
 
+![Block Diagram of the Closed Loop Controller In Simulink](./img/fuzzy_bd.png)
 
