@@ -24,4 +24,5 @@ are chosen and results are plotted:
 
 <img src="./img/ex-1-vis.png" width="600">
 
+<img src="./img/ex-1-response.png" width="600">
 
