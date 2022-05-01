@@ -17,6 +17,8 @@ as inputs to the plant and states are observed to be used as feedbacks.
 
 Block Diagram of the Closed Loop Controller in Simulink: 
 
+<img src="./img/fuzzy_bd.png" width="200">
+
 ![Block Diagram of the Closed Loop Controller in Simulink](./img/fuzzy_bd.png)
 
 To showcase the algorithm, extreme values of distance and angle according to the constraints
