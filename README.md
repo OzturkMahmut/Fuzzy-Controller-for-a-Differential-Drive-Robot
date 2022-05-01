@@ -19,7 +19,7 @@ Block Diagram of the Closed Loop Controller In Simulink:
 
 ![Block Diagram of the Closed Loop Controller In Simulink](./img/fuzzy_bd.png)
 
-To showcase the algorithm extreme values of distance and angle according to the constraints
+To showcase the algorithm, extreme values of distance and angle according to the constraints
 are chosen and results are plotted:
 
 ![ex-1](./img/ex-1-vis.png)
